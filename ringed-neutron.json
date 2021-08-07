@@ -1,0 +1,2629 @@
+{
+  "markers": [
+    {
+      "pin": "blue",
+      "text": "Foetch AA-A h2 A 1",
+      "x": 2813.03,
+      "y": 1657,
+      "z": 16558.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Phoea AA-A h12 ABCDE 4",
+      "x": 4944.53,
+      "y": -1072.56,
+      "z": -4395.72
+    },
+    {
+      "pin": "blue",
+      "text": "Phrooe Blou AA-A h62 AB 2",
+      "x": 18971.9,
+      "y": -72.5625,
+      "z": 34278.7
+    },
+    {
+      "pin": "blue",
+      "text": "Phrooe Blou AA-A h62 AB 3",
+      "x": 18971.9,
+      "y": -72.5625,
+      "z": 34278.7
+    },
+    {
+      "pin": "blue",
+      "text": "Greae Phoea AA-A h23 ABCDE 2",
+      "x": 4921.28,
+      "y": -103.281,
+      "z": 15765.9
+    },
+    {
+      "pin": "blue",
+      "text": "Scaule AA-A h19 AB 8",
+      "x": -11202.9,
+      "y": -458.062,
+      "z": 28455
+    },
+    {
+      "pin": "blue",
+      "text": "Clooku AA-A h211 1",
+      "x": -6094.94,
+      "y": -408.594,
+      "z": 11953.7
+    },
+    {
+      "pin": "blue",
+      "text": "Clookoae AA-A h42 ABC 12",
+      "x": -15896.7,
+      "y": -1193.75,
+      "z": 12768.2
+    },
+    {
+      "pin": "blue",
+      "text": "Eephaik AA-A h6 3",
+      "x": -11849.9,
+      "y": -940.25,
+      "z": 17274.2
+    },
+    {
+      "pin": "blue",
+      "text": "HD 175876 7",
+      "x": -644.188,
+      "y": -472,
+      "z": 2299.31
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Aurb AA-A h196 AB 1",
+      "x": 4477.69,
+      "y": 1741.88,
+      "z": 26576.9
+    },
+    {
+      "pin": "blue",
+      "text": "Kyloarph AA-A h3 1",
+      "x": -6865.34,
+      "y": -182.344,
+      "z": 21194.5
+    },
+    {
+      "pin": "blue",
+      "text": "Skaude AA-A h294 AB 3",
+      "x": -5131.72,
+      "y": -275.625,
+      "z": 10365.2
+    },
+    {
+      "pin": "blue",
+      "text": "Skaude AA-A h140 1",
+      "x": -4755.78,
+      "y": -655,
+      "z": 9534.81
+    },
+    {
+      "pin": "blue",
+      "text": "Boesky AA-A h5 2",
+      "x": -9721.22,
+      "y": -706.844,
+      "z": 15582.2
+    },
+    {
+      "pin": "blue",
+      "text": "HD 78344 7",
+      "x": 1538.34,
+      "y": -8.03125,
+      "z": -20.625
+    },
+    {
+      "pin": "blue",
+      "text": "Teqie AA-A h23 AB 5",
+      "x": -1855.81,
+      "y": -1277.47,
+      "z": 36865.4
+    },
+    {
+      "pin": "blue",
+      "text": "Egnairs AA-A h72 1",
+      "x": 7172.88,
+      "y": 1319.41,
+      "z": 23001.5
+    },
+    {
+      "pin": "blue",
+      "text": "Skaudoae AA-A h41 ABC 7",
+      "x": -2234.03,
+      "y": -501.875,
+      "z": 9768.25
+    },
+    {
+      "pin": "blue",
+      "text": "Xeehia AA-A h11 1",
+      "x": -4558.88,
+      "y": -1971.84,
+      "z": 11484.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Scraa AA-A h646 1",
+      "x": -2296.28,
+      "y": 2160.19,
+      "z": 18823.4
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Scraa AA-A h527 2",
+      "x": -1445.53,
+      "y": 2531.5,
+      "z": 18410.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Scraa AA-A h56 1",
+      "x": -1959.91,
+      "y": 1817,
+      "z": 18611.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Scraa AA-A h353 1",
+      "x": -2107.22,
+      "y": 2333.72,
+      "z": 18379.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Scraa AA-A h415 3",
+      "x": -1687.47,
+      "y": 2515.75,
+      "z": 19017
+    },
+    {
+      "pin": "blue",
+      "text": "Mylaifa AA-A h734 AB 2",
+      "x": -3168.19,
+      "y": -170.312,
+      "z": 18212.3
+    },
+    {
+      "pin": "blue",
+      "text": "Mylaifa AA-A h346 2",
+      "x": -3652.84,
+      "y": -129.719,
+      "z": 19244.7
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgaa AA-A h406 3",
+      "x": -5373.09,
+      "y": -81.6875,
+      "z": 33609.4
+    },
+    {
+      "pin": "blue",
+      "text": "Flyai Eaescs AA-A h63 AB 2",
+      "x": -11868.2,
+      "y": -830.219,
+      "z": 9550.22
+    },
+    {
+      "pin": "blue",
+      "text": "Spoihee AA-A h79 1",
+      "x": -6955,
+      "y": -1601.09,
+      "z": 20096
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blooe AA-A h70 ABCDE 1",
+      "x": -6645.62,
+      "y": -1894.84,
+      "z": 27193.9
+    },
+    {
+      "pin": "blue",
+      "text": "Voqua AA-A h177 AB 7",
+      "x": -8340.38,
+      "y": -1567.78,
+      "z": 17769.4
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blooe AA-A h247 2",
+      "x": -6689.72,
+      "y": -1789.16,
+      "z": 27400.2
+    },
+    {
+      "pin": "blue",
+      "text": "Iwaisty AA-A h308 2",
+      "x": -17243.8,
+      "y": -291.562,
+      "z": 32650
+    },
+    {
+      "pin": "blue",
+      "text": "Greae Hypa AA-A h46 2",
+      "x": -8907.72,
+      "y": -618.375,
+      "z": 14131.9
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blooe AA-A h508 3",
+      "x": -7085.66,
+      "y": -1638,
+      "z": 27772.9
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blooe AA-A h740 2",
+      "x": -7407.56,
+      "y": -2429.53,
+      "z": 27238.2
+    },
+    {
+      "pin": "blue",
+      "text": "Eulairg AA-A h433 ABC 1",
+      "x": -7039.91,
+      "y": 1405.94,
+      "z": 17159
+    },
+    {
+      "pin": "blue",
+      "text": "Eulain AA-A h255 3",
+      "x": -3978.62,
+      "y": 2314.41,
+      "z": 18095.1
+    },
+    {
+      "pin": "blue",
+      "text": "Byoomi AA-A h19 AB 12",
+      "x": -1891.69,
+      "y": -1210.88,
+      "z": 25164.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryu Auf AA-A h62 AB 4",
+      "x": -11467.6,
+      "y": 1735.47,
+      "z": 20721.4
+    },
+    {
+      "pin": "blue",
+      "text": "Dryu Auf AA-A h157 ABCD 1",
+      "x": -10401.6,
+      "y": 1495.66,
+      "z": 20812.1
+    },
+    {
+      "pin": "blue",
+      "text": "Egnairbs AA-A h275 AB 3",
+      "x": -5815.88,
+      "y": 1689.53,
+      "z": 22317
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Prao AA-A h32 1",
+      "x": 8132.22,
+      "y": -710.5,
+      "z": 21802.4
+    },
+    {
+      "pin": "blue",
+      "text": "Skaude AA-A h740 1",
+      "x": -4458.31,
+      "y": -370.125,
+      "z": 9858.09
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h600 AB 2",
+      "x": -4975.41,
+      "y": -1970.34,
+      "z": 29299.8
+    },
+    {
+      "pin": "blue",
+      "text": "Eoch Pruae AA-A h345 1",
+      "x": -8902.16,
+      "y": -474.875,
+      "z": 20199.3
+    },
+    {
+      "pin": "blue",
+      "text": "Noijou AA-A h270 1",
+      "x": -3348.44,
+      "y": 2480.25,
+      "z": 32443.2
+    },
+    {
+      "pin": "blue",
+      "text": "Noijou AA-A h352 2",
+      "x": -3649.56,
+      "y": 1890.69,
+      "z": 33461.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blooe AA-A h344 3",
+      "x": -6747.44,
+      "y": -1599.47,
+      "z": 28315.5
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h92 1",
+      "x": -5093,
+      "y": -2056.88,
+      "z": 28707.9
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h194 1",
+      "x": -4445.06,
+      "y": -1978.53,
+      "z": 28594.2
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h220 1",
+      "x": -5136.97,
+      "y": -1500.06,
+      "z": 28888.8
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h331 3",
+      "x": -4426.06,
+      "y": -2007.75,
+      "z": 29446.9
+    },
+    {
+      "pin": "blue",
+      "text": "Braireau AA-A h8 1",
+      "x": -2202.62,
+      "y": -72.5625,
+      "z": 31964.4
+    },
+    {
+      "pin": "blue",
+      "text": "Skaude AA-A h463 1",
+      "x": -4716.28,
+      "y": -206.188,
+      "z": 10016.4
+    },
+    {
+      "pin": "blue",
+      "text": "Hypoe Ploe AA-A h29 2",
+      "x": 9526.53,
+      "y": -389.438,
+      "z": 23062.5
+    },
+    {
+      "pin": "blue",
+      "text": "Drumboa AA-A h73 AB 6",
+      "x": -9325.47,
+      "y": 1697.56,
+      "z": 22588.1
+    },
+    {
+      "pin": "blue",
+      "text": "Leamae AA-A h37 2",
+      "x": -11891.5,
+      "y": -406.312,
+      "z": 20249.9
+    },
+    {
+      "pin": "blue",
+      "text": "Drumboa AA-A h248 AB 6",
+      "x": -9760.72,
+      "y": 1621.53,
+      "z": 23122.7
+    },
+    {
+      "pin": "blue",
+      "text": "Drumboa AA-A h47 AB 8",
+      "x": -10006.7,
+      "y": 2279.22,
+      "z": 22392
+    },
+    {
+      "pin": "blue",
+      "text": "Prae Blao AA-A h32 3",
+      "x": 9053.5,
+      "y": -1083.81,
+      "z": 49289
+    },
+    {
+      "pin": "blue",
+      "text": "Gru Hypoea AA-A h59 2",
+      "x": -7356.62,
+      "y": -1322.44,
+      "z": 13391.6
+    },
+    {
+      "pin": "blue",
+      "text": "Gru Hypoea AA-A h48 2",
+      "x": -7230.72,
+      "y": -2279.06,
+      "z": 13331.1
+    },
+    {
+      "pin": "blue",
+      "text": "Eos Scraa AA-A h32 1",
+      "x": -1647.31,
+      "y": 2347.84,
+      "z": 16872.5
+    },
+    {
+      "pin": "blue",
+      "text": "Boewnst AA-A h139 AB 2",
+      "x": -5884.28,
+      "y": -681.438,
+      "z": 16211.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Flyao AA-A h42 1",
+      "x": 2528.69,
+      "y": -884.094,
+      "z": 18823.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Scraa AA-A h743 AB 4",
+      "x": -2592.66,
+      "y": 1553.69,
+      "z": 18936.3
+    },
+    {
+      "pin": "blue",
+      "text": "Dryuae Phyloea AA-A h629 ABCD 7",
+      "x": -5722.5,
+      "y": 2084.59,
+      "z": 29325.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryuae Phyloea AA-A h74 ABC 1",
+      "x": -5658.22,
+      "y": 2388.88,
+      "z": 29553.3
+    },
+    {
+      "pin": "blue",
+      "text": "Dryuae Phyloea AA-A h75 AB 7",
+      "x": -5482.62,
+      "y": 1512.12,
+      "z": 28622.2
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h360 1",
+      "x": -4369.22,
+      "y": -1353.06,
+      "z": 28777
+    },
+    {
+      "pin": "blue",
+      "text": "Dryuae Phyloea AA-A h741 2",
+      "x": -5708.94,
+      "y": 1359.81,
+      "z": 28412.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryuae Phyloea AA-A h420 2",
+      "x": -5226.12,
+      "y": 1532.38,
+      "z": 28434.5
+    },
+    {
+      "pin": "blue",
+      "text": "Dryuae Phyloea AA-A h431 2",
+      "x": -5654.75,
+      "y": 2471.62,
+      "z": 28504.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Flyao AA-A h178 2",
+      "x": 3614.44,
+      "y": -1278.66,
+      "z": 18651.8
+    },
+    {
+      "pin": "blue",
+      "text": "Wepooe AA-A h66 2",
+      "x": -4983.47,
+      "y": -177.031,
+      "z": 23817.2
+    },
+    {
+      "pin": "blue",
+      "text": "Wepooe AA-A h506 AB 1",
+      "x": -4370.75,
+      "y": -155.031,
+      "z": 24383.3
+    },
+    {
+      "pin": "blue",
+      "text": "Hypio Proo AA-A h17 1",
+      "x": -2314.5,
+      "y": -2429.44,
+      "z": 24723.8
+    },
+    {
+      "pin": "blue",
+      "text": "Lyambe AA-A h23 2",
+      "x": -15784,
+      "y": -397,
+      "z": 18938.1
+    },
+    {
+      "pin": "blue",
+      "text": "Wepooe AA-A h319 2",
+      "x": -4650.66,
+      "y": -597.656,
+      "z": 23954
+    },
+    {
+      "pin": "blue",
+      "text": "Wepooe AA-A h322 2",
+      "x": -5123.94,
+      "y": -200.125,
+      "z": 24293.2
+    },
+    {
+      "pin": "blue",
+      "text": "Wepooe AA-A h270 1",
+      "x": -4429.31,
+      "y": -80.25,
+      "z": 23868.4
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Pri AA-A h153 AB 5",
+      "x": -4861.94,
+      "y": -882.75,
+      "z": 24762.1
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Pri AA-A h84 1",
+      "x": -3959.41,
+      "y": -1181.38,
+      "z": 25133.8
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Pri AA-A h116 AB 1",
+      "x": -4748.62,
+      "y": -633.094,
+      "z": 24817
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Pri AA-A h227 ABCD 3",
+      "x": -4262.91,
+      "y": -392,
+      "z": 24965.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phroi Flyuae AA-A h20 2",
+      "x": -3657.47,
+      "y": -56.5312,
+      "z": 24418.4
+    },
+    {
+      "pin": "blue",
+      "text": "Myumbau AA-A h417 ABC 5",
+      "x": 4981.53,
+      "y": -2397.91,
+      "z": 22234.5
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h313 AB 2",
+      "x": -8860,
+      "y": 1609.28,
+      "z": 24803.4
+    },
+    {
+      "pin": "blue",
+      "text": "Mynoaw AA-A h26 ABCD 6",
+      "x": 4027.03,
+      "y": -307.344,
+      "z": 18527.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Greou AA-A h1 1",
+      "x": -5354.59,
+      "y": -2183.91,
+      "z": 37281.3
+    },
+    {
+      "pin": "blue",
+      "text": "Phroea Ploe AA-A h66 1",
+      "x": 5792.38,
+      "y": -873.844,
+      "z": 23861
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prau AA-A h39 AB 3",
+      "x": 6047.88,
+      "y": -763.094,
+      "z": 25020.2
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h564 3",
+      "x": -3922.34,
+      "y": -1912.03,
+      "z": 29092.7
+    },
+    {
+      "pin": "blue",
+      "text": "Kyloaln AA-A h18 2",
+      "x": -6373.41,
+      "y": -969.312,
+      "z": 20884.1
+    },
+    {
+      "pin": "blue",
+      "text": "Eephaills AA-A h96 1",
+      "x": -10646.3,
+      "y": -422.469,
+      "z": 17658.7
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupeae AA-A h612 AB 1",
+      "x": -3951.34,
+      "y": -2554.53,
+      "z": 29546.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Flya AA-A h223 ABCD 4",
+      "x": -6044.75,
+      "y": -2413.31,
+      "z": 23512.9
+    },
+    {
+      "pin": "blue",
+      "text": "Myumbe AA-A h194 AB 4",
+      "x": -4145.75,
+      "y": -1661.88,
+      "z": 22260.5
+    },
+    {
+      "pin": "blue",
+      "text": "Brambe AA-A h357 1",
+      "x": -8930.34,
+      "y": -2093.72,
+      "z": 19294
+    },
+    {
+      "pin": "blue",
+      "text": "Myumbe AA-A h293 2",
+      "x": -3990.19,
+      "y": -2167.78,
+      "z": 22099.2
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h69 ABC 5",
+      "x": -8164.62,
+      "y": -2252.5,
+      "z": 25175
+    },
+    {
+      "pin": "blue",
+      "text": "Myumbiae AA-A h3 3",
+      "x": -2817.44,
+      "y": -1426.75,
+      "z": 22472.9
+    },
+    {
+      "pin": "blue",
+      "text": "Greae Phoea AA-A h19 ABCD 1",
+      "x": 4045.88,
+      "y": -426.469,
+      "z": 16182.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blao AA-A h100 1",
+      "x": 5094.34,
+      "y": -637.5,
+      "z": 27570.4
+    },
+    {
+      "pin": "blue",
+      "text": "Speamoi AA-A h411 3",
+      "x": 3147.22,
+      "y": -2314.81,
+      "z": 20319.8
+    },
+    {
+      "pin": "blue",
+      "text": "Mylaifa AA-A h619 AB 6",
+      "x": -2711.78,
+      "y": -1198.41,
+      "z": 18282.9
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blao AA-A h169 A 1",
+      "x": 6140.66,
+      "y": -165.75,
+      "z": 27460.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Blao AA-A h242 1",
+      "x": 5529.53,
+      "y": -1188.41,
+      "z": 27269.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoi Bla AA-A h79 1",
+      "x": 6473.53,
+      "y": -2516.28,
+      "z": 29197.4
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Flyue AA-A h189 2",
+      "x": 3424.44,
+      "y": -2075.84,
+      "z": 18071.3
+    },
+    {
+      "pin": "blue",
+      "text": "Myumbau AA-A h201 3",
+      "x": 4334.53,
+      "y": -2064.78,
+      "z": 22147.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h236 2",
+      "x": -3500.94,
+      "y": 1404.28,
+      "z": 29399.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h259 1",
+      "x": -3684.78,
+      "y": 1597.69,
+      "z": 29466.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aug AA-A h83 AB 3",
+      "x": 3705.16,
+      "y": 1675.38,
+      "z": 26694.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aug AA-A h55 ABCD 4",
+      "x": 2517.25,
+      "y": 2027.41,
+      "z": 26042.6
+    },
+    {
+      "pin": "blue",
+      "text": "Clookao AA-A h79 3",
+      "x": -11496.7,
+      "y": -84.9688,
+      "z": 12309.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phroea Flyai AA-A h40 1",
+      "x": 6264.75,
+      "y": -1808.31,
+      "z": 24270.9
+    },
+    {
+      "pin": "blue",
+      "text": "Phroea Ploe AA-A h284 2",
+      "x": 5282.84,
+      "y": -1001.44,
+      "z": 24103.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aug AA-A h436 1",
+      "x": 3464.41,
+      "y": 2236.56,
+      "z": 26356.5
+    },
+    {
+      "pin": "blue",
+      "text": "Eotchops AA-A h185 3",
+      "x": 2532.78,
+      "y": 2243.59,
+      "z": 24292
+    },
+    {
+      "pin": "blue",
+      "text": "Eotchops AA-A h317 ABC 1",
+      "x": 2999.25,
+      "y": 1308.06,
+      "z": 23957.5
+    },
+    {
+      "pin": "blue",
+      "text": "Rhuedgie AA-A h214 3",
+      "x": 3155.22,
+      "y": 2369.41,
+      "z": 31649.2
+    },
+    {
+      "pin": "blue",
+      "text": "Eotchops AA-A h418 4",
+      "x": 2718.72,
+      "y": 2525.59,
+      "z": 23647
+    },
+    {
+      "pin": "blue",
+      "text": "Rhuedgie AA-A h293 ABC 7",
+      "x": 2579.03,
+      "y": 1865.22,
+      "z": 30942.5
+    },
+    {
+      "pin": "blue",
+      "text": "Eotchops AA-A h560 1",
+      "x": 2668.28,
+      "y": 1582.84,
+      "z": 23809.5
+    },
+    {
+      "pin": "blue",
+      "text": "Eotchopt AA-A h145 2",
+      "x": 4924.66,
+      "y": 2513.06,
+      "z": 23570.4
+    },
+    {
+      "pin": "blue",
+      "text": "Huemo AA-A h458 ABC 9",
+      "x": 2864.06,
+      "y": -1467.31,
+      "z": 25823.7
+    },
+    {
+      "pin": "blue",
+      "text": "Egnaiv AA-A h47 ABC 8",
+      "x": -1657.91,
+      "y": 1859.78,
+      "z": 21982.5
+    },
+    {
+      "pin": "blue",
+      "text": "Egnaiv AA-A h60 AB 9",
+      "x": -2205.25,
+      "y": 1752.62,
+      "z": 22375.8
+    },
+    {
+      "pin": "blue",
+      "text": "Skombeou AA-A h11 AB 3",
+      "x": -8958.59,
+      "y": 1528.94,
+      "z": 28503.4
+    },
+    {
+      "pin": "blue",
+      "text": "Noijuae AA-A h70 ABC 1",
+      "x": -1963.03,
+      "y": 1716.75,
+      "z": 32680.9
+    },
+    {
+      "pin": "blue",
+      "text": "Nyuenua AA-A h11 AB 1",
+      "x": -6138.03,
+      "y": 2030.59,
+      "z": 26123.5
+    },
+    {
+      "pin": "blue",
+      "text": "Mylaifa AA-A h164 1",
+      "x": -2772.12,
+      "y": -518.031,
+      "z": 18737
+    },
+    {
+      "pin": "blue",
+      "text": "Mylaifa AA-A h170 1",
+      "x": -3084.22,
+      "y": -797.875,
+      "z": 18440.4
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Blue AA-A h85 1",
+      "x": 5272.94,
+      "y": -1842.25,
+      "z": 28410
+    },
+    {
+      "pin": "blue",
+      "text": "Mylaifa AA-A h285 AB 5",
+      "x": -3266.72,
+      "y": -693.062,
+      "z": 18494.9
+    },
+    {
+      "pin": "blue",
+      "text": "Aunaiwyg AA-A h59 ABC 1",
+      "x": 4873.91,
+      "y": 2208,
+      "z": 21205.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryi Aug AA-A h28 AB 5",
+      "x": 3182.91,
+      "y": 2055.88,
+      "z": 20699.9
+    },
+    {
+      "pin": "blue",
+      "text": "Egnaimt AA-A h140 AB 11",
+      "x": 3830.44,
+      "y": 2144.09,
+      "z": 22408.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Pruae AA-A h745 2",
+      "x": -1841,
+      "y": -372.719,
+      "z": 21172.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Pruae AA-A h682 2",
+      "x": -1782.62,
+      "y": -578.594,
+      "z": 21930.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Pruae AA-A h698 2",
+      "x": -2226.59,
+      "y": -88.8438,
+      "z": 21460.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Pruae AA-A h646 3",
+      "x": -1655.53,
+      "y": -125.219,
+      "z": 21709.8
+    },
+    {
+      "pin": "blue",
+      "text": "Blaa Phrua AA-A h73 1",
+      "x": -8657.06,
+      "y": -2529.72,
+      "z": 15403.2
+    },
+    {
+      "pin": "blue",
+      "text": "Myumbiae AA-A h28 3",
+      "x": -2711.81,
+      "y": -2135.03,
+      "z": 22091.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Pruae AA-A h25 2",
+      "x": -1926.94,
+      "y": -664.062,
+      "z": 21342.7
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupau AA-A h77 1",
+      "x": -7299.09,
+      "y": -1699.44,
+      "z": 29251.8
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupau AA-A h234 AB 3",
+      "x": -6989.41,
+      "y": -2539.28,
+      "z": 28975.9
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupau AA-A h67 AB 3",
+      "x": -6848.97,
+      "y": -1710.38,
+      "z": 28636.3
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Blou AA-A h165 1",
+      "x": -2092.62,
+      "y": -1193.19,
+      "z": 28397.4
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Flyue AA-A h318 3",
+      "x": 2955.19,
+      "y": -1974.69,
+      "z": 17816.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dehau AA-A h40 2",
+      "x": -10138.6,
+      "y": -185.031,
+      "z": 10021.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Flyoo AA-A h575 AB 4",
+      "x": -7630.44,
+      "y": -1908.69,
+      "z": 17739.1
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Aurb AA-A h59 1",
+      "x": 4431.41,
+      "y": 1709.81,
+      "z": 24571.4
+    },
+    {
+      "pin": "blue",
+      "text": "Hypoae Aurb AA-A h11 AB 7",
+      "x": 5894.78,
+      "y": 1352.72,
+      "z": 25077.3
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aurb AA-A h205 AB 10",
+      "x": 5424.91,
+      "y": 1309.5,
+      "z": 26654.1
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aurb AA-A h205 AB 12",
+      "x": 5424.91,
+      "y": 1309.5,
+      "z": 26654.1
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aurb AA-A h219 AB 3",
+      "x": 5174.62,
+      "y": 1597.34,
+      "z": 26816.4
+    },
+    {
+      "pin": "blue",
+      "text": "Phaa Aurb AA-A h256 AB 4",
+      "x": 5815.28,
+      "y": 2392.09,
+      "z": 26709.8
+    },
+    {
+      "pin": "blue",
+      "text": "Plipua AA-A h192 ABC 5",
+      "x": 5180.91,
+      "y": 1588.66,
+      "z": 28131.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryi Phylaa AA-A h139 1",
+      "x": 5193.88,
+      "y": 2200.44,
+      "z": 29150.1
+    },
+    {
+      "pin": "blue",
+      "text": "Iojaing AA-A h187 3",
+      "x": 4962.09,
+      "y": 1661.53,
+      "z": 29462.9
+    },
+    {
+      "pin": "blue",
+      "text": "Iojaing AA-A h226 AB 2",
+      "x": 4173.47,
+      "y": 2398.41,
+      "z": 28652.5
+    },
+    {
+      "pin": "blue",
+      "text": "Athairk AA-A h114 1",
+      "x": 2969.44,
+      "y": -1051.72,
+      "z": 22738.3
+    },
+    {
+      "pin": "blue",
+      "text": "Eoch Flyi AA-A h149 1",
+      "x": -5948.09,
+      "y": -92.5312,
+      "z": 17384.8
+    },
+    {
+      "pin": "blue",
+      "text": "Athairk AA-A h155 ABC 3",
+      "x": 2920.78,
+      "y": -734.219,
+      "z": 23178.8
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Byio AA-A h69 1",
+      "x": 2675.34,
+      "y": -715.5,
+      "z": 29705.4
+    },
+    {
+      "pin": "blue",
+      "text": "Athairk AA-A h498 AB 9",
+      "x": 2660.47,
+      "y": -219.594,
+      "z": 22047.1
+    },
+    {
+      "pin": "blue",
+      "text": "Athairk AA-A h591 3",
+      "x": 3124.56,
+      "y": -560.125,
+      "z": 22752.6
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Byio AA-A h120 AB 1",
+      "x": 3222.44,
+      "y": -555.219,
+      "z": 30081.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Byio AA-A h120 AB 2",
+      "x": 3222.44,
+      "y": -555.219,
+      "z": 30081.7
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Flyai AA-A h260 AB 7",
+      "x": 4526.16,
+      "y": -1346.16,
+      "z": 23784.1
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Flyai AA-A h329 2",
+      "x": 5000.38,
+      "y": -2245.16,
+      "z": 23863.5
+    },
+    {
+      "pin": "blue",
+      "text": "Byoomu AA-A h521 AB 6",
+      "x": 3783.91,
+      "y": -592.906,
+      "z": 25421.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h571 AB 5",
+      "x": -3261.56,
+      "y": 1360.16,
+      "z": 28435.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h571 AB 6",
+      "x": -3261.56,
+      "y": 1360.16,
+      "z": 28435.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h447 ABCD 4",
+      "x": -2627.91,
+      "y": 1524.28,
+      "z": 29070.5
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h518 AB 1",
+      "x": -2926.19,
+      "y": 1906.47,
+      "z": 28860
+    },
+    {
+      "pin": "blue",
+      "text": "Skombuia AA-A h713 ABC 2",
+      "x": -4980.12,
+      "y": 1595.75,
+      "z": 29270.8
+    },
+    {
+      "pin": "blue",
+      "text": "Skombuia AA-A h510 AB 7",
+      "x": -4517.66,
+      "y": 1846.66,
+      "z": 28887.3
+    },
+    {
+      "pin": "blue",
+      "text": "Phua Ausms AA-A h173 AB 1",
+      "x": -3757.16,
+      "y": 1513.28,
+      "z": 26628.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Phylio AA-A h640 ABCDE 6",
+      "x": -1946.91,
+      "y": 2128.34,
+      "z": 29386.4
+    },
+    {
+      "pin": "blue",
+      "text": "Byoomu AA-A h272 2",
+      "x": 4416.88,
+      "y": -306.125,
+      "z": 24626.7
+    },
+    {
+      "pin": "blue",
+      "text": "Skombuia AA-A h279 1",
+      "x": -4812.38,
+      "y": 2376.12,
+      "z": 28808.5
+    },
+    {
+      "pin": "blue",
+      "text": "Byoomu AA-A h210 AB 2",
+      "x": 4113.53,
+      "y": -49.1875,
+      "z": 25491.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eachaiv AA-A h521 AB 2",
+      "x": 3047.91,
+      "y": -1674.31,
+      "z": 24052.3
+    },
+    {
+      "pin": "blue",
+      "text": "Stranaea AA-A h25 ABC 2",
+      "x": -4954.72,
+      "y": 1624.84,
+      "z": 18440.5
+    },
+    {
+      "pin": "blue",
+      "text": "Struqeou AA-A h50 ABCD 1",
+      "x": -2543.31,
+      "y": -2162.59,
+      "z": 35853.8
+    },
+    {
+      "pin": "blue",
+      "text": "Stranaea AA-A h21 1",
+      "x": -4267,
+      "y": 2468.59,
+      "z": 18557.1
+    },
+    {
+      "pin": "blue",
+      "text": "Braisaa AA-A h327 AB 6",
+      "x": 5927.88,
+      "y": -491.469,
+      "z": 31713.9
+    },
+    {
+      "pin": "blue",
+      "text": "Braisoi AA-A h94 1",
+      "x": 4402.59,
+      "y": -93.8438,
+      "z": 31573.6
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phylaa AA-A h15 AB 8",
+      "x": 3875.16,
+      "y": 2177.25,
+      "z": 34214.9
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phylaa AA-A h93 1",
+      "x": 4867.22,
+      "y": 1390.88,
+      "z": 34228.3
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgae AA-A h107 3",
+      "x": -2150.5,
+      "y": -464.094,
+      "z": 33697.3
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgae AA-A h129 ABC 8",
+      "x": -2320.56,
+      "y": -1033.06,
+      "z": 34360
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgae AA-A h44 3",
+      "x": -2596.09,
+      "y": -292.219,
+      "z": 33519.1
+    },
+    {
+      "pin": "blue",
+      "text": "Eachaiv AA-A h174 2",
+      "x": 2627.19,
+      "y": -2135.38,
+      "z": 23991.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Blue AA-A h154 1",
+      "x": 5484.38,
+      "y": -1609.28,
+      "z": 29203.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Blue AA-A h213 1",
+      "x": 5539.62,
+      "y": -1352.19,
+      "z": 29266.1
+    },
+    {
+      "pin": "blue",
+      "text": "Wepiae AA-A h202 1",
+      "x": 3730.72,
+      "y": -839.875,
+      "z": 24259.3
+    },
+    {
+      "pin": "blue",
+      "text": "Eoch Pri AA-A h80 ABCD 7",
+      "x": -6203.78,
+      "y": -409.094,
+      "z": 20536.3
+    },
+    {
+      "pin": "blue",
+      "text": "Eok Pruae AA-A h398 1",
+      "x": -1889.12,
+      "y": -50.5312,
+      "z": 20658.8
+    },
+    {
+      "pin": "blue",
+      "text": "Hypo Auf AA-A h39 AB 7",
+      "x": -10077.7,
+      "y": 2359.94,
+      "z": 25697.1
+    },
+    {
+      "pin": "blue",
+      "text": "Nyuenoi AA-A h17 1",
+      "x": -8722.56,
+      "y": 2149.53,
+      "z": 26233.7
+    },
+    {
+      "pin": "blue",
+      "text": "Leamao AA-A h7 AB 1",
+      "x": 3076.62,
+      "y": -1246.84,
+      "z": 20678.4
+    },
+    {
+      "pin": "blue",
+      "text": "Plimbea AA-A h308 1",
+      "x": -8094.59,
+      "y": 1715.97,
+      "z": 27884.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Bli AA-A h34 1",
+      "x": 8651.78,
+      "y": -90.875,
+      "z": 28527.4
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Bli AA-A h39 3",
+      "x": 8763.44,
+      "y": -1260.94,
+      "z": 28926.2
+    },
+    {
+      "pin": "blue",
+      "text": "Phrooe Graae AA-A h23 ABC 2",
+      "x": -11989.2,
+      "y": -59.9375,
+      "z": 36596.4
+    },
+    {
+      "pin": "blue",
+      "text": "Phrooe Graae AA-A h23 ABC 4",
+      "x": -11989.2,
+      "y": -59.9375,
+      "z": 36596.4
+    },
+    {
+      "pin": "blue",
+      "text": "Wrupau AA-A h397 AB 10",
+      "x": -6674.25,
+      "y": -2251.28,
+      "z": 28938.6
+    },
+    {
+      "pin": "blue",
+      "text": "Bloomea AA-A h500 2",
+      "x": -10047.3,
+      "y": -1610.91,
+      "z": 25120
+    },
+    {
+      "pin": "blue",
+      "text": "Dryau Bro AA-A h404 ABC 8",
+      "x": -2126.12,
+      "y": 1590.28,
+      "z": 31477.8
+    },
+    {
+      "pin": "blue",
+      "text": "Xeeheou AA-A h11 ABC 5",
+      "x": -2272.19,
+      "y": -1593.25,
+      "z": 10542
+    },
+    {
+      "pin": "blue",
+      "text": "Yoque AA-A h27 2",
+      "x": 18284.5,
+      "y": -131.656,
+      "z": 17423.7
+    },
+    {
+      "pin": "blue",
+      "text": "Rothi AA-A h63 ABC 4",
+      "x": -12207.6,
+      "y": -2032.38,
+      "z": 30768.4
+    },
+    {
+      "pin": "blue",
+      "text": "Dryu Scroi AA-A h145 1",
+      "x": -10325.3,
+      "y": 2528.5,
+      "z": 18749.1
+    },
+    {
+      "pin": "blue",
+      "text": "Schieno AA-A h126 AB 7",
+      "x": -6875.81,
+      "y": -2017.41,
+      "z": 21731.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryu Scroi AA-A h164 AB 6",
+      "x": -10632.1,
+      "y": 1344,
+      "z": 18622.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryu Scroi AA-A h212 ABC 3",
+      "x": -10849.7,
+      "y": 1875.03,
+      "z": 19407.3
+    },
+    {
+      "pin": "blue",
+      "text": "Juemeau AA-A h14 2",
+      "x": -11193.2,
+      "y": -379.938,
+      "z": 26415.7
+    },
+    {
+      "pin": "blue",
+      "text": "Braisoi AA-A h432 2",
+      "x": 3976.62,
+      "y": -1232.19,
+      "z": 31556.9
+    },
+    {
+      "pin": "blue",
+      "text": "Braisoi AA-A h118 3",
+      "x": 3789.22,
+      "y": -474.031,
+      "z": 32067.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bloo AA-A h41 2",
+      "x": -6154.31,
+      "y": -2480.75,
+      "z": 29011.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bloo AA-A h97 2",
+      "x": -5970.38,
+      "y": -1806.06,
+      "z": 28728.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bloo AA-A h61 1",
+      "x": -5924.31,
+      "y": -1473.72,
+      "z": 29347.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bloo AA-A h88 AB 7",
+      "x": -6278.41,
+      "y": -1502.41,
+      "z": 29270.8
+    },
+    {
+      "pin": "blue",
+      "text": "Bleia Eaescs AA-A h20 2",
+      "x": -33633.7,
+      "y": -1071.06,
+      "z": 14538.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bloo AA-A h783 1",
+      "x": -5657.16,
+      "y": -1430.19,
+      "z": 29242.5
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bloo AA-A h793 2",
+      "x": -5232.56,
+      "y": -2034.62,
+      "z": 28449.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phroea Ploe AA-A h120 ABCD 1",
+      "x": 6253.09,
+      "y": -627.531,
+      "z": 23600.4
+    },
+    {
+      "pin": "blue",
+      "text": "Kyloaln AA-A h627 AB 5",
+      "x": -6203.34,
+      "y": -945.188,
+      "z": 21660.3
+    },
+    {
+      "pin": "blue",
+      "text": "Juenoea AA-A h4 ABC 1",
+      "x": -6322.66,
+      "y": -506.719,
+      "z": 26181.5
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Gree AA-A h28 ABC 5",
+      "x": -6603.97,
+      "y": -187.281,
+      "z": 31116.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Flya AA-A h161 1",
+      "x": -5730.75,
+      "y": -1958.78,
+      "z": 23301.4
+    },
+    {
+      "pin": "blue",
+      "text": "Phroea Flyoo AA-A h121 ABC 7",
+      "x": -6499,
+      "y": -1329.12,
+      "z": 24247.4
+    },
+    {
+      "pin": "blue",
+      "text": "Phrio Flya AA-A h214 3",
+      "x": -5321.41,
+      "y": -1885.16,
+      "z": 23796.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoi Grie AA-A h472 ABC 5",
+      "x": -2700.22,
+      "y": -2307.59,
+      "z": 32021.4
+    },
+    {
+      "pin": "blue",
+      "text": "Iwaitt AA-A h117 ABC 2",
+      "x": -4558.41,
+      "y": -407.094,
+      "z": 33294.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoi Grie AA-A h147 2",
+      "x": -2968.72,
+      "y": -1565.19,
+      "z": 32196.6
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoi Grie AA-A h217 ABC 2",
+      "x": -3250.84,
+      "y": -1674.59,
+      "z": 32202.8
+    },
+    {
+      "pin": "blue",
+      "text": "Hyuqoae AA-A h217 AB 3",
+      "x": -7512.66,
+      "y": -966.688,
+      "z": 35024.8
+    },
+    {
+      "pin": "blue",
+      "text": "Throets AA-A h609 BC 5",
+      "x": -8496.97,
+      "y": 2189.06,
+      "z": 20048.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Aurb AA-A h401 AB 1",
+      "x": 4123.25,
+      "y": 1858.78,
+      "z": 26624.2
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Aurb AA-A h337 ABC 3",
+      "x": 4106.5,
+      "y": 2478.62,
+      "z": 25832.9
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Aurb AA-A h337 ABC 4",
+      "x": 4106.5,
+      "y": 2478.62,
+      "z": 25832.9
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Aurb AA-A h328 AB 6",
+      "x": 4493.66,
+      "y": 2445,
+      "z": 26823.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Aurb AA-A h65 1",
+      "x": 3915.31,
+      "y": 2511.88,
+      "z": 26478.2
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h45 2",
+      "x": 2963.25,
+      "y": -1880.22,
+      "z": 24828.1
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h131 2",
+      "x": 3063.06,
+      "y": -2109.22,
+      "z": 25728.9
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h175 4",
+      "x": 3546.53,
+      "y": -2328.34,
+      "z": 25194.8
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h12 3",
+      "x": 2563.22,
+      "y": -2067.44,
+      "z": 25578.3
+    },
+    {
+      "pin": "blue",
+      "text": "Huemo AA-A h22 3",
+      "x": 2502.28,
+      "y": -1789.41,
+      "z": 26077
+    },
+    {
+      "pin": "blue",
+      "text": "Huemo AA-A h126 2",
+      "x": 2785.72,
+      "y": -2149.09,
+      "z": 26372
+    },
+    {
+      "pin": "blue",
+      "text": "Huemo AA-A h165 3",
+      "x": 2807.38,
+      "y": -1324.22,
+      "z": 25897.2
+    },
+    {
+      "pin": "blue",
+      "text": "Eorl Braea AA-A h220 1",
+      "x": 5007.5,
+      "y": 1765.91,
+      "z": 29748.2
+    },
+    {
+      "pin": "blue",
+      "text": "Eorl Braea AA-A h229 AB 6",
+      "x": 4856.91,
+      "y": 1638.06,
+      "z": 30165.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Flyoo AA-A h129 1",
+      "x": -6910.84,
+      "y": -2006.22,
+      "z": 19381
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h232 2",
+      "x": 2787.56,
+      "y": -1620.66,
+      "z": 25078.2
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h261 1",
+      "x": 2776.38,
+      "y": -2510.16,
+      "z": 24721.1
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h488 2",
+      "x": 3543.19,
+      "y": -1783.19,
+      "z": 25606.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Blue AA-A h7 2",
+      "x": 4059.66,
+      "y": -1653.5,
+      "z": 29098.2
+    },
+    {
+      "pin": "blue",
+      "text": "Gleeque AA-A h64 AB 1",
+      "x": 4256.62,
+      "y": -1830.78,
+      "z": 24876
+    },
+    {
+      "pin": "blue",
+      "text": "Gleeque AA-A h64 AB 2",
+      "x": 4256.62,
+      "y": -1830.78,
+      "z": 24876
+    },
+    {
+      "pin": "blue",
+      "text": "Leamue AA-A h479 ABC 5",
+      "x": -7136.06,
+      "y": -1098.28,
+      "z": 19750.5
+    },
+    {
+      "pin": "blue",
+      "text": "Plipaa AA-A h10 ABC 1",
+      "x": 3894.06,
+      "y": 1945.34,
+      "z": 27298
+    },
+    {
+      "pin": "blue",
+      "text": "Chraisuae AA-A h53 2",
+      "x": 3693.03,
+      "y": -2351.97,
+      "z": 32080.9
+    },
+    {
+      "pin": "blue",
+      "text": "Plipaa AA-A h67 AB 2",
+      "x": 3904.44,
+      "y": 2472.94,
+      "z": 27728.8
+    },
+    {
+      "pin": "blue",
+      "text": "Schee Prue AA-A h577 1",
+      "x": 2672,
+      "y": -2338.59,
+      "z": 24976.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryi Braea AA-A h17 AB 7",
+      "x": 5748.62,
+      "y": 1295.78,
+      "z": 31125.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryi Braea AA-A h17 AB 8",
+      "x": 5748.62,
+      "y": 1295.78,
+      "z": 31125.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryi Braea AA-A h83 2",
+      "x": 6277.12,
+      "y": 1793.41,
+      "z": 32060.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Bru AA-A h17 AB 6",
+      "x": 6853.56,
+      "y": 1460.91,
+      "z": 31721
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoea Flyoo AA-A h275 AB 2",
+      "x": -7265.41,
+      "y": -1959.91,
+      "z": 18790.2
+    },
+    {
+      "pin": "blue",
+      "text": "Chraisuae AA-A h287 2",
+      "x": 2843.94,
+      "y": -1536.47,
+      "z": 31987.3
+    },
+    {
+      "pin": "blue",
+      "text": "Eeshoqs AA-A h25 AB 1",
+      "x": 2632.78,
+      "y": -118.531,
+      "z": 17533.3
+    },
+    {
+      "pin": "blue",
+      "text": "Leamue AA-A h784 AB 1",
+      "x": -7111.38,
+      "y": -1164.06,
+      "z": 19952.7
+    },
+    {
+      "pin": "blue",
+      "text": "Leamue AA-A h747 ABC 6",
+      "x": -7330.5,
+      "y": -419.375,
+      "z": 19950.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phyloi AA-A h79 ABC 1",
+      "x": 6415.53,
+      "y": 2045.12,
+      "z": 29212.4
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgaa AA-A h154 1",
+      "x": -6346.31,
+      "y": -537.469,
+      "z": 34145.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phua Ausms AA-A h124 2",
+      "x": -3551.69,
+      "y": 1266.19,
+      "z": 26992.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phyloi AA-A h72 AB 1",
+      "x": 7104.25,
+      "y": 1709.75,
+      "z": 29231.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phyloi AA-A h72 AB 2",
+      "x": 7104.25,
+      "y": 1709.75,
+      "z": 29231.9
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgaa AA-A h136 3",
+      "x": -6003.28,
+      "y": -112.562,
+      "z": 33548.9
+    },
+    {
+      "pin": "blue",
+      "text": "Phleedgaa AA-A h196 AB 3",
+      "x": -5322.5,
+      "y": -1173.16,
+      "z": 34236.9
+    },
+    {
+      "pin": "blue",
+      "text": "Foijie AA-A h309 3",
+      "x": -2016.31,
+      "y": -2060.81,
+      "z": 33439.9
+    },
+    {
+      "pin": "blue",
+      "text": "Cieso AA-A h152 2",
+      "x": -2259.25,
+      "y": 2117.06,
+      "z": 35818.6
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Scraa AA-A h711 AB 2",
+      "x": -7995.16,
+      "y": 1909.12,
+      "z": 23736
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Scraa AA-A h624 2",
+      "x": -8766.06,
+      "y": 2025.34,
+      "z": 24115
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Scraa AA-A h678 ABC 1",
+      "x": -8029.28,
+      "y": 2492.44,
+      "z": 24400.6
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Scraa AA-A h586 2",
+      "x": -9012.75,
+      "y": 1801.97,
+      "z": 23990.7
+    },
+    {
+      "pin": "blue",
+      "text": "Eoch Flyuae AA-A h84 2",
+      "x": -8953.88,
+      "y": -852.625,
+      "z": 17800.6
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Scraa AA-A h375 2",
+      "x": -7788.06,
+      "y": 2317.75,
+      "z": 23591.8
+    },
+    {
+      "pin": "blue",
+      "text": "Chraisa AA-A h10 1",
+      "x": -5842.12,
+      "y": -1676.66,
+      "z": 31692.4
+    },
+    {
+      "pin": "blue",
+      "text": "Eoch Blao AA-A h96 AB 3",
+      "x": 4212.12,
+      "y": -1081.84,
+      "z": 28163.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Scraa AA-A h89 AB 4",
+      "x": -7968.06,
+      "y": 2292.34,
+      "z": 23587.9
+    },
+    {
+      "pin": "blue",
+      "text": "Graea Hypa AA-A h315 AB 1",
+      "x": -3510.84,
+      "y": -878.562,
+      "z": 14290.3
+    },
+    {
+      "pin": "blue",
+      "text": "Eoch Proo AA-A h52 3",
+      "x": -8474.16,
+      "y": -1774.38,
+      "z": 20564.2
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phyloea AA-A h21 2",
+      "x": -6043.88,
+      "y": 2260.06,
+      "z": 33664.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phyloea AA-A h119 2",
+      "x": -6319.88,
+      "y": 1864.94,
+      "z": 33848.1
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phyloea AA-A h189 AB 4",
+      "x": -6288.16,
+      "y": 1564.69,
+      "z": 34505.5
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phyloea AA-A h210 ABC 5",
+      "x": -5396.81,
+      "y": 2256.94,
+      "z": 33616
+    },
+    {
+      "pin": "blue",
+      "text": "Phoi Phyloea AA-A h210 ABC 6",
+      "x": -5396.81,
+      "y": 2256.94,
+      "z": 33616
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Byoe AA-A h342 1",
+      "x": -5789.22,
+      "y": -253.531,
+      "z": 35735.9
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Byoe AA-A h396 ABC 4",
+      "x": -6085.22,
+      "y": -157.188,
+      "z": 35101
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Byoe AA-A h385 A 1",
+      "x": -5790.12,
+      "y": -196.969,
+      "z": 35219.7
+    },
+    {
+      "pin": "blue",
+      "text": "Theemae AA-A h149 1",
+      "x": -3056.53,
+      "y": 2426.38,
+      "z": 23564.6
+    },
+    {
+      "pin": "blue",
+      "text": "Aemonz AA-A h78 ABC 4",
+      "x": 4305.53,
+      "y": -1169.41,
+      "z": 34497.5
+    },
+    {
+      "pin": "blue",
+      "text": "Stranaae AA-A h147 1",
+      "x": 5155.16,
+      "y": 1458.5,
+      "z": 19350.8
+    },
+    {
+      "pin": "blue",
+      "text": "Phroi Flyue AA-A h39 1",
+      "x": 6565.91,
+      "y": -1919.09,
+      "z": 23989.8
+    },
+    {
+      "pin": "blue",
+      "text": "Byoome AA-A h114 3",
+      "x": -8321.47,
+      "y": -637.219,
+      "z": 25269
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoi Proo AA-A h91 2",
+      "x": -2692.03,
+      "y": -1564.97,
+      "z": 20907.8
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h632 AB 1",
+      "x": -8210.78,
+      "y": -1717.53,
+      "z": 25714.8
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h632 AB 3",
+      "x": -8210.78,
+      "y": -1717.53,
+      "z": 25714.8
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h696 2",
+      "x": -7967.41,
+      "y": -1312.84,
+      "z": 25363.8
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h476 3",
+      "x": -8040.91,
+      "y": -2400.41,
+      "z": 24585.5
+    },
+    {
+      "pin": "blue",
+      "text": "Dryoi Proo AA-A h241 1",
+      "x": -3115.5,
+      "y": -1983.47,
+      "z": 21341.3
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h128 2",
+      "x": -7821.06,
+      "y": -1665.84,
+      "z": 25072.6
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h240 A 2",
+      "x": -8995.62,
+      "y": -1451.34,
+      "z": 25148
+    },
+    {
+      "pin": "blue",
+      "text": "Scheau Proo AA-A h369 1",
+      "x": -8790.91,
+      "y": -1767.62,
+      "z": 24694.2
+    },
+    {
+      "pin": "blue",
+      "text": "Drumbaae AA-A h720 2",
+      "x": -8500.84,
+      "y": 2336.12,
+      "z": 23203.2
+    },
+    {
+      "pin": "blue",
+      "text": "Drumbaae AA-A h582 1",
+      "x": -8936.62,
+      "y": 2370.66,
+      "z": 22583.6
+    },
+    {
+      "pin": "blue",
+      "text": "Drumbaae AA-A h378 ABC 5",
+      "x": -8916.44,
+      "y": 1961.75,
+      "z": 22060.9
+    },
+    {
+      "pin": "blue",
+      "text": "Drumbaae AA-A h155 ABC 5",
+      "x": -8108.38,
+      "y": 2474.78,
+      "z": 23203.5
+    },
+    {
+      "pin": "blue",
+      "text": "Aunaihm AA-A h613 AB 7",
+      "x": -8519.94,
+      "y": 1378.97,
+      "z": 21946.4
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h638 2",
+      "x": -1672.16,
+      "y": -2094.09,
+      "z": 18895.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h594 ABC 5",
+      "x": -1571.53,
+      "y": -1951.25,
+      "z": 18177.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h326 AB 2",
+      "x": -1934.16,
+      "y": -1727.56,
+      "z": 19145.5
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h320 2",
+      "x": -2057.66,
+      "y": -2009.34,
+      "z": 18466.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h484 4",
+      "x": -1899.28,
+      "y": -2304.78,
+      "z": 18177.7
+    },
+    {
+      "pin": "blue",
+      "text": "Aemonz AA-A h304 2",
+      "x": 4128.47,
+      "y": -845.156,
+      "z": 34547.2
+    },
+    {
+      "pin": "blue",
+      "text": "Aemonz AA-A h310 AB 1",
+      "x": 4194.44,
+      "y": -309.594,
+      "z": 34181
+    },
+    {
+      "pin": "blue",
+      "text": "Aemonz AA-A h310 AB 5",
+      "x": 4194.44,
+      "y": -309.594,
+      "z": 34181
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h379 1",
+      "x": -1490.44,
+      "y": -2006.5,
+      "z": 18792.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryaa Flyoo AA-A h3 1",
+      "x": -2419.59,
+      "y": -1371.97,
+      "z": 18896.5
+    },
+    {
+      "pin": "blue",
+      "text": "Voqoo AA-A h665 1",
+      "x": -3890.38,
+      "y": -2506.53,
+      "z": 18024.8
+    },
+    {
+      "pin": "blue",
+      "text": "Voqoo AA-A h578 ABC 4",
+      "x": -3762.78,
+      "y": -1701.88,
+      "z": 17856.3
+    },
+    {
+      "pin": "blue",
+      "text": "Voqoo AA-A h254 3",
+      "x": -3117.97,
+      "y": -1338.12,
+      "z": 18074.1
+    },
+    {
+      "pin": "blue",
+      "text": "Voqoo AA-A h30 2",
+      "x": -3134.16,
+      "y": -1752.34,
+      "z": 17418.1
+    },
+    {
+      "pin": "blue",
+      "text": "Dryao Phylio AA-A h377 1",
+      "x": -2802.34,
+      "y": 1423.38,
+      "z": 28463.9
+    },
+    {
+      "pin": "blue",
+      "text": "Sphoeff AA-A h39 2",
+      "x": -3992.16,
+      "y": -1584.41,
+      "z": 16623.5
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Flyoo AA-A h221 1",
+      "x": -7614.06,
+      "y": -1909.88,
+      "z": 17053.6
+    },
+    {
+      "pin": "blue",
+      "text": "Flyeia Flyi AA-A h42 1",
+      "x": -4407.72,
+      "y": -698.906,
+      "z": 37342.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bluae AA-A h93 4",
+      "x": -5260.28,
+      "y": -307.062,
+      "z": 28492.9
+    },
+    {
+      "pin": "blue",
+      "text": "Eok Flyoo AA-A h462 1",
+      "x": -1986.5,
+      "y": -1546.84,
+      "z": 17206
+    },
+    {
+      "pin": "blue",
+      "text": "Eok Flyoo AA-A h278 AB 2",
+      "x": -2440.16,
+      "y": -1323.09,
+      "z": 17884.9
+    },
+    {
+      "pin": "blue",
+      "text": "Eok Flyoo AA-A h283 3",
+      "x": -2154.66,
+      "y": -1588.25,
+      "z": 17511.3
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bluae AA-A h79 3",
+      "x": -5675.47,
+      "y": -836.469,
+      "z": 29609.2
+    },
+    {
+      "pin": "blue",
+      "text": "Eok Flyoo AA-A h70 1",
+      "x": -1837.12,
+      "y": -2545.38,
+      "z": 16966.6
+    },
+    {
+      "pin": "blue",
+      "text": "Flyae Flyuae AA-A h35 AB 10",
+      "x": -3831.62,
+      "y": -1231.84,
+      "z": 37958.4
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h673 AB 6",
+      "x": -8382.62,
+      "y": 2070.34,
+      "z": 25692.3
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h417 AB 2",
+      "x": -8369.59,
+      "y": 1979.22,
+      "z": 25411.9
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h575 AB 10",
+      "x": -8728.72,
+      "y": 2202.44,
+      "z": 24666.7
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bluae AA-A h226 3",
+      "x": -5272.53,
+      "y": -1235.53,
+      "z": 28399.8
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h476 3",
+      "x": -8391.66,
+      "y": 1579.34,
+      "z": 25297
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h274 1",
+      "x": -7975.59,
+      "y": 1540.84,
+      "z": 25363.2
+    },
+    {
+      "pin": "blue",
+      "text": "Hypiae Ausms AA-A h299 ABC 4",
+      "x": -8139.81,
+      "y": 1477.91,
+      "z": 25782.6
+    },
+    {
+      "pin": "blue",
+      "text": "Rothaae AA-A h46 3",
+      "x": 5361.78,
+      "y": -2130.09,
+      "z": 30011.4
+    },
+    {
+      "pin": "blue",
+      "text": "Hypo Auf AA-A h204 1",
+      "x": -9653.22,
+      "y": 2116,
+      "z": 24857.1
+    },
+    {
+      "pin": "blue",
+      "text": "Plipaa AA-A h367 3",
+      "x": 4230.34,
+      "y": 1546.91,
+      "z": 28105.1
+    },
+    {
+      "pin": "blue",
+      "text": "Plipaa AA-A h264 ABC 7",
+      "x": 4875.09,
+      "y": 2124.25,
+      "z": 28264.9
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bluae AA-A h199 AB 8",
+      "x": -6265.28,
+      "y": -610.719,
+      "z": 28710.2
+    },
+    {
+      "pin": "blue",
+      "text": "Hypo Auf AA-A h165 ABC 3",
+      "x": -9933.84,
+      "y": 1728.22,
+      "z": 24597.3
+    },
+    {
+      "pin": "blue",
+      "text": "Hypo Auf AA-A h250 1",
+      "x": -10230.7,
+      "y": 2145.25,
+      "z": 24757.2
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bluae AA-A h269 3",
+      "x": -5385.38,
+      "y": -298.844,
+      "z": 28586.8
+    },
+    {
+      "pin": "blue",
+      "text": "Dryio Bluae AA-A h502 3",
+      "x": -5911.03,
+      "y": -900.438,
+      "z": 29653.7
+    },
+    {
+      "pin": "blue",
+      "text": "Byoomeae AA-A h175 ABC 4",
+      "x": 3313,
+      "y": -781.219,
+      "z": 25150.9
+    },
+    {
+      "pin": "blue",
+      "text": "Noijuae AA-A h61 2",
+      "x": -1829.81,
+      "y": 1747.12,
+      "z": 32416.1
+    },
+    {
+      "pin": "blue",
+      "text": "Eord Flyoo AA-A h273 ABC 6",
+      "x": -6663.91,
+      "y": -2476.97,
+      "z": 17569.6
+    },
+    {
+      "pin": "blue",
+      "text": "Eor Bro AA-A h505 ABC 6",
+      "x": -6649.25,
+      "y": 1712.84,
+      "z": 30820.3
+    },
+    {
+      "pin": "blue",
+      "text": "Eor Bro AA-A h505 ABC 7",
+      "x": -6649.25,
+      "y": 1712.84,
+      "z": 30820.3
+    },
+    {
+      "pin": "blue",
+      "text": "Nyuenaa AA-A h562 ABC 10",
+      "x": -6812.03,
+      "y": 1570.72,
+      "z": 26057
+    },
+    {
+      "pin": "blue",
+      "text": "Nyuenaa AA-A h642 ABC 5",
+      "x": -7517.66,
+      "y": 1737.56,
+      "z": 26196.7
+    }
+  ]
+}
